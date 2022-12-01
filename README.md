@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @ImBuger, actually my real name is Buğra. 
-- 🌱 I’m currently learning Python but ım beginner :)
+- 🌱 I’m currently learning Python, Java and Unity game engine
 - 📫 this's my e-mail address, utkubugradam1903@gmail.com
