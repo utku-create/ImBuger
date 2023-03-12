@@ -13,6 +13,7 @@ class SoftwareEngineerStudent:
         self.name = "Utku Bugra Yilmaz"
         self.role = "Software Engineer Student"
         self.language_spoken = ["tr_TR", "en_US"]
+	self.abilities = ["Python","Java","Robotic Programming w Ardunio", "Unity Game Engine"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
