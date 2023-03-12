@@ -48,6 +48,10 @@ func GetBio() Bio {
   <a href="https://bionluk.com/imthebug">
     <img src="https://bgcp.bionluk.com/images/avatar/200x200/9b7dd049-410f-409f-9778-da05a21fbe14.png" alt="Utku Buğra Yılmaz's Bionluk Profile" height="30" width="30">
   </a>
+	
+<a href="https://open.spotify.com/user/6x0ojja01xuxm6int2orza8nn">
+    <img src="https://www.vectorlogo.zone/logos/spotify/spotify-icon.svg" alt="Utku Buğra Yılmaz's Spotify Profile" height="30" width="30">
+  </a>
   
   <a href="https://i.ytimg.com/vi/iNEw7nDo2ao/maxresdefault.jpg">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
