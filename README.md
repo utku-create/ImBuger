@@ -7,18 +7,18 @@
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class SoftwareEngineerStudent:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Utku Bugra Yilmaz"
+        self.role = "Software Engineer Student"
+        self.language_spoken = ["tr_TR", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = SoftwareEngineerStudent()
 me.say_hi()
 ```
 ---
