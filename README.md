@@ -49,17 +49,17 @@ func GetBio() Bio {
     <img src="https://bgcp.bionluk.com/images/avatar/200x200/9b7dd049-410f-409f-9778-da05a21fbe14.png" alt="Utku Buğra Yılmaz's Bionluk Profile" height="30" width="30">
   </a>
   
-  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
+  <a href="https://i.ytimg.com/vi/iNEw7nDo2ao/maxresdefault.jpg">
     <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
   </a>
 </p>
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">...çalışma var...</p>
 <p align="center">
   <a href="">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+    <img src="" alt="ImBuger :: StackShare" />
   </a>
 </p>
 
@@ -81,5 +81,3 @@ func GetBio() Bio {
 
 
 ---
-
-⭐️ From [@AnhellO](https://github.com/AnhellO)
