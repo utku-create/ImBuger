@@ -35,7 +35,7 @@ func GetBio() Bio {
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify/user/6x0ojja01xuxm6int2orza8nn)](https://open.spotify.com/user/6x0ojja01xuxm6int2orza8nn)
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/6x0ojja01xuxm6int2orza8nn)
 
 ---
 
