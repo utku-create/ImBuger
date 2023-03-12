@@ -59,7 +59,7 @@ func GetBio() Bio {
 <p align="center">...çalışma var...</p>
 <p align="center">
   <a href="">
-    <img src="" alt="ImBuger :: StackShare" />
+    //<img src="" alt="ImBuger :: StackShare" />
   </a>
 </p>
 
