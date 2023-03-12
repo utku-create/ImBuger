@@ -31,7 +31,7 @@ func GetBio() Bio {
 ```
 
 &nbsp;<div align="center">
-  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/omnitenebris)
+  [![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/6x0ojja01xuxm6int2orza8nn)
 </div>
 ---
 
