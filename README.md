@@ -56,12 +56,13 @@ func GetBio() Bio {
 
 <h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">...çalışma var...</p>
+```<p align="center">...çalışma var...</p>
 <p align="center">
   <a href="">
-    //<img src="" alt="ImBuger :: StackShare" />
+    <img src="" alt="ImBuger :: StackShare" />
   </a>
 </p>
+```
 
 <h2 align="center">Github stats :bar_chart:</h2>
 
