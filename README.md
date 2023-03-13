@@ -44,6 +44,9 @@ me.say_hi()
   <a href="https://www.linkedin.com/in/utku-buğra-yılmaz-668873221/">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Utku Buğra Yılmaz's LinkedIn Profile" height="30" width="30">
   </a>
+  <a href="https://utkubugrayilmaz.wixsite.com/bugra">
+    <img src="https://e7.pngegg.com/pngimages/791/516/png-clipart-web-development-internet-world-wide-web-web-design-globe.png" alt="Utku Buğra Yılmaz's Website" height="30" width="30">
+  </a>
 
   <a href="https://stackoverflow.com/users/21350412/buğra">
     <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Utku Buğra Yılmaz's Stack Overflow Profile" height="30" width="30">
