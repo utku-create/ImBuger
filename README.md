@@ -45,7 +45,7 @@ me.say_hi()
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Utku Buğra Yılmaz's LinkedIn Profile" height="30" width="30">
   </a>
   <a href="https://utkubugrayilmaz.wixsite.com/bugra">
-    <img src="https://w7.pngwing.com/pngs/549/715/png-transparent-web-development-logo-website-web-design-symmetry-internet-thumbnail.png" alt="Utku Buğra Yılmaz's Website" height="30" width="30">
+    <img src="https://png.pngtree.com/png-vector/20190319/ourmid/pngtree-vector-web-icon-png-image_848026.jpg" alt="Utku Buğra Yılmaz's Website" height="30" width="30">
   </a>
 
   <a href="https://stackoverflow.com/users/21350412/buğra">
